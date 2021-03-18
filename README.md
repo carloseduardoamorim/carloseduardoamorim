@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Hi there 👋 
-I'm Carlos Eduardo Amorim, a Web Developer and a student at the [Federal Institute of Education, Science and Technology of Tocantins(Brazil)](http://ifto.edu.br). I'm learnig and loving JavaScript and Node.js.
+### Hi there 👋 
+I'm Carlos Eduardo Amorim, a Web Developer and a student at the [Federal Institute of Education, Science and Technology of Tocantins(Brazil)](http://ifto.edu.br). I'm learning and loving JavaScript, Node.js and distributed systems ☺️.
 
 You can connect to me at https://www.linkedin.com/in/carlos-eduardo-amorim-7599ab1b0/
